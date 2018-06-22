@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.o2oSSM.DAO.ProductCategoryDAO">
+    <select id="queryProductCategorieById" resultType="com.o2oSSM.DataObject.ProductCategory"
+            parameterType="Long">
+        SELECT
+        product_category_id,
+        product_category_name,
+        product_category_desc,
+        priority,
+        createTime,
+        updateTime,
+        shop_id
+        FROM tb_product_category
+        WHERE shop_id = #{shopId}
+        ORDER by priority DESC
+    </select>
+
+    <insert id="batchInsertProductCategory" parameterType="java.util.List">
+
+        INSERT INTO tb_product_category
+        (product_category_name,shop_id,createTime,priority)
+        VALUES
+        <foreach collection="list" separator="," item="productCategory" index="index">
+            (
+            #{productCategory.productCategoryName},
+            #{productCategory.shopId},
+            #{productCategory.createTime},
+            #{productCategory.priority}
+            )
+        </foreach>
+    </insert>
+
+    <delete id="deleteProductCategory">
+        DELETE FROM tb_product_category
+        WHERE product_category_id = #{productCategoryId}
+        AND shop_id = #{shopId}
+    </delete>
+</mapper>

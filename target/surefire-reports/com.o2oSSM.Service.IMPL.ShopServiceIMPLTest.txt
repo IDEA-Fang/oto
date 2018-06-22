@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.o2oSSM.Service.IMPL.ShopServiceIMPLTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.o2oSSM.Service.IMPL.ShopServiceIMPLTest
+addShop(com.o2oSSM.Service.IMPL.ShopServiceIMPLTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoSuchMethodError: com.o2oSSM.Service.IMPL.ShopServiceIMPL.addShop(Lcom/o2oSSM/DataObject/Shop;Ljava/io/InputStream;Ljava/lang/String;)Lcom/o2oSSM/DataTransferObject/ShopExecutionDTO;
+	at com.o2oSSM.Service.IMPL.ShopServiceIMPLTest.addShop(ShopServiceIMPLTest.java:45)
+

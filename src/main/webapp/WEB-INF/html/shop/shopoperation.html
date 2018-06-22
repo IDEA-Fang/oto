@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>/shopadmin/shopoperation</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
+    <link rel="stylesheet" href="//g.alicdn.com/msui/sm/0.6.2/css/sm-extend.min.css">
+
+</head>
+
+<body>
+<div class="page-group">
+    <div class="page page-current">
+        <!-- 你的html代码 -->
+        <header class="bar bar-nav">
+            <h1 class='title'>店铺信息</h1>
+        </header>
+        <div class="content">
+            <div class="list-block">
+                <ul>
+                    <!-- Text inputs -->
+                    <li>
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-name"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">商铺名称</div>
+                                <div class="item-input">
+                                    <input type="text" id="shop-name" placeholder="商铺名称">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                   <!--店铺分类-->
+                    <li>
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-gender"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">商铺分类</div>
+                                <div class="item-input">
+                                    <select id="shop-category">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--所属区域-->
+                    <li>
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-gender"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">所属区域</div>
+                                <div class="item-input">
+                                    <select id="area">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--详细地址-->
+                    <li>
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-name"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">详细地址</div>
+                                <div class="item-input">
+                                    <input type="text" id="shop-address" placeholder="详细地址">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--联系电话-->
+                    <li>
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-name"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">联系电话</div>
+                                <div class="item-input">
+                                    <input type="text" id="phone" placeholder="联系电话">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--缩略图 上传文件-->
+                    <li class="align-top">
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-comment"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">店铺图片</div>
+                                <div class="item-input">
+                                    <input type="file" id="shop-img">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!--店铺简介 text-->
+                    <li class="align-top">
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-comment"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label" id ="shop-desc">店铺简介</div>
+                                <div class="item-input">
+                                    <textarea></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!--验证码  onclick="changedChaptchaCode(this)"-->
+                    <li class="align-top">
+                        <div class="item-content">
+                            <div class="item-media"><i class="icon icon-form-comment"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">验证码</div>
+                                <div class="item-input">
+                                    <input type="text" id="y_captcha" name="y_captcha"
+                                           class="form-control in" placeholder="验证码">
+
+                                    <div class="item-input">
+                                        <img id = "captcha_img" alt="点击更换" title="点击更换"
+                                             src = "../Kaptcha"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- Switch (Checkbox) -->
+                    <li>
+                        <div class="item-content" id="onetest">
+                            <div class="item-media"><i class="icon icon-form-toggle"></i></div>
+                            <div class="item-inner">
+                                <div class="item-title label">开关</div>
+                                <div class="item-input">
+                                    <label class="label-switch">
+                                        <input type="checkbox">
+                                        <div class="checkbox"></div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div></div>
+                    </li>
+
+
+                </ul>
+            </div>
+            <div class="content-block">
+                <div class="row">
+                    <div class="col-50"><a href="#" class="button button-big button-fill button-danger">返回</a></div>
+                    <div class="col-50"><a href="#" class="button button-big button-fill button-success" id="submit" >提交</a>
+                   <!-- <input type="button" id="submit" name="submit" value="submit" class="button button-big button-fill button-success>
+-->
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<header class="bar bar-nav">
+    <h1 class='title'>栅格</h1>
+</header>
+<div class="content">
+    <div class="content-padded grid-demo">
+        <div class="row">
+            <div class="col-50">50%</div>
+            <div class="col-50">50%</div>
+        </div>
+        <div class="row">
+            <div class="col-33">33%</div>
+            <div class="col-33">33%</div>
+            <div class="col-33">33%</div>
+        </div>
+        <div class="row">
+            <div class="col-20">20%</div>
+            <div class="col-80">80%</div>
+        </div>
+        <h2>无间距</h2>
+        <div class="row no-gutter">
+            <div class="col-20">20%</div>
+            <div class="col-80">80%</div>
+        </div>
+    </div>
+</div>
+
+<script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
+<script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
+<script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm-extend.min.js' charset='utf-8'></script>
+<script type="text/javascript" src="..//resources/js/shop/shopoperation.js" charset='utf-8'></script>
+<script type="text/javascript" src="..//resources/js/commons/common.js" charset='utf-8'></script>
+
+</body>
+</html>
