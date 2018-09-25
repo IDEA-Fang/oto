@@ -44,7 +44,7 @@ public class Testjson {
     }
 
     @ResponseBody
-    @RequestMapping(value = "getnumber")
+    @RequestMapping(value = "/getnumber")
     public Map<String ,Object> getTest(){
         Map<String,Object> map = new HashMap<>();
         map.put("success", "true");

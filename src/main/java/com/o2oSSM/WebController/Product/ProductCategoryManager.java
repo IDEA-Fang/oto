@@ -58,6 +58,7 @@ public class ProductCategoryManager {
 
     //freemark
     @RequestMapping(value = "/getproductcategorymodel",method = RequestMethod.GET)
+    @ResponseBody
     public ModelAndView getProductCategoryModel
             (HttpServletRequest httpServletRequest){
         ModelAndView modelAndView = new ModelAndView();
@@ -80,12 +81,13 @@ public class ProductCategoryManager {
             modelAndView.addObject("success",false);
             modelAndView.addObject("errorMessage",pcError.getMessage());
             modelAndView.addObject("errorCode",pcError.getCode());
+            modelAndView.setViewName("/product/getprocates");
             return modelAndView;
         }
     }
 
     //TODO controller
-    @RequestMapping(value = "addproductcategories")
+    @RequestMapping(value = "/addproductcategories")
     @ResponseBody
     public Map<String,Object> addproductcategories(
             @RequestBody List<ProductCategory> productCategories,
@@ -110,7 +112,7 @@ public class ProductCategoryManager {
     }
 
 
-    @RequestMapping(value = "deleteproductgory")
+    @RequestMapping(value = "/deleteproductgory")
     @ResponseBody
     public Map<String ,Object> deleteProductCategory(Long productCategoryId,Long shopId){
         Map map = new HashMap();

@@ -44,7 +44,8 @@ public class ProductManageController {
 
     private static final int PRODUCT_IMG_MAXCOUNT = 6;
 
-    @RequestMapping(value = "/listproductbyshop",method = RequestMethod.POST)
+    @RequestMapping(value = "/listproductbyshop",method = RequestMethod.GET)
+    @ResponseBody
     public Map<String ,Object> listProductByShop(HttpServletRequest httpServletRequest)
             throws IOException {
         Map<String, Object> modelMap = new HashMap<>();
@@ -93,6 +94,7 @@ public class ProductManageController {
 
 
         @RequestMapping(value = "/addproduct",method = RequestMethod.POST)
+        @ResponseBody
         public Map<String ,Object> addProduct(HttpServletRequest httpServletRequest) throws IOException {
             Map<String ,Object> modelMap = new HashMap<>();
 
@@ -162,6 +164,7 @@ public class ProductManageController {
     }
 
     @RequestMapping(value = "/updateproduct",method = RequestMethod.POST)
+    @ResponseBody
     public Map<String ,Object> updateProduct(HttpServletRequest httpServletRequest) throws IOException {
         Map<String, Object> modelMap = new HashMap<>();
 

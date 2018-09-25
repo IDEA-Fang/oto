@@ -1,3 +1,12 @@
+ip
+http://localhost:8085/product/getproductcategorys
+http://localhost:8085/product/getproductcategorymodel
+http://localhost:8085/shopadmin/shopoperation
+http://localhost:8085/test/getnumber
+
+json问题解决了
+post不能访问问题
+
 4.0版本以下，varchar(50)，指的是50字节，如果存放UTF8汉字时，只能存16个（每个汉字3字节）
 5.0版本以上，varchar(50)，指的是50字符，无论存放的是数字、字母还是UTF8汉字（每个汉字3字节），都可以存放50个
 其实最好的办法是在自己数据库中建个表试试可以放多少汉字，现在mysql都5.0已上了，varchar(50)是可以存50个汉字的

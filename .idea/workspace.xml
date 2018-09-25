@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="oto:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eac75e9-4fc5-4a12-a96e-40c35f784678" name="Default" comment="1o1o1o1">
+      <change afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jquery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jquery_ui.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showimg/oto-mulu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showimg/oto-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/Wechat/WechatUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataTransferObject/UserAccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/MyX509TrustManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/SignUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/WechatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/asserts/买辣椒也用券-起风了.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/asserts/广东雨神-广东爱情故事.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/asserts/林俊杰-醉赤壁.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/asserts/许嵩-有何不可.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/Navicat for MySQL.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/pause-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/play-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/上一曲 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/播放 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/img/暂停.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/music/js/music.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/SqlTimeInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/SqlTimeInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductCategoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductCategoryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductManageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductManageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Testjson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Testjson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-configuration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/AreaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/ProductCategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/ProductDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/ProductImgDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/ShopCategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DAO/ShopDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/HeadLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/LocalAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/PersonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/ProductImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/ShopCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataObject/WechatAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataTransferObject/ProductCategoryExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataTransferObject/ProductExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/DataTransferObject/ShopExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Enums/CodeEnums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Enums/ResultEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Enums/ShopStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Exceptions/ObjectException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Exceptions/ShopExceprion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/AreaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/IMPL/AreaServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/IMPL/ProductCategoryServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/IMPL/ProductServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/IMPL/ShopCategoryServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/IMPL/ShopServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/ProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/ShopCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Service/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/HttpServletRequestConversionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/ImageHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/KaptchaCodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/ObjectToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/PathUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/ResultViewOUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/Utils/SqlTimeInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/VO/ResultVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/Product/ProductCategoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/Product/ProductManageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/Testjson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/shopAdmin/ShopAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/shopAdmin/ShopManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/o2oSSM/WebController/superadmin/AreaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fangfor1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/AreaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductImgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ShopCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ShopDAOMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/AreaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/ProductCategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/ProductDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/ProductImgDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/ShopCategoryDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DAO/ShopDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/HeadLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/LocalAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/PersonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/ProductImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/ShopCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataObject/WechatAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataTransferObject/ProductCategoryExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataTransferObject/ProductExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/DataTransferObject/ShopExecutionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Enums/CodeEnums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Enums/ResultEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Enums/ShopStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Exceptions/ObjectException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Exceptions/ShopExceprion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/AreaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/IMPL/AreaServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/IMPL/ProductCategoryServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/IMPL/ProductServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/IMPL/ShopCategoryServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/IMPL/ShopServiceIMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/ProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/ShopCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Service/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/HttpServletRequestConversionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/ImageHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/KaptchaCodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/ObjectToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/PathUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/Utils/ResultViewOUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/VO/ResultVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/Product/ProductCategoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/Product/ProductManageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/Testjson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/shopAdmin/ShopAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/shopAdmin/ShopManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/com/o2oSSM/WebController/superadmin/AreaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/fangfor1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/AreaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/ProductCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/ProductImgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/ShopCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mapper/ShopDAOMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/mybatis-configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/spring/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/spring/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/classes/spring/spring-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/html/product/getproductcategorys.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/html/shop/shopoperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/html/superadmin/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/c3p0-0.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/commons-collections-3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/fastjson-1.2.40.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/filters-2.0.235-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/jQuery-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/jackson-annotations-2.8.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/jackson-core-2.8.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/jackson-databind-2.8.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/kaptcha-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/lombok-1.16.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/mybatis-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/mybatis-spring-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/mysql-connector-java-5.1.40.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/servlet-api-3.0-alpha-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-aop-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-beans-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-context-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-context-support-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-core-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-expression-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-jdbc-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-test-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-tx-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-web-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/spring-webmvc-4.3.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/lib/thumbnailator-0.4.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/temlpate/common/header.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/temlpate/getprocates.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/temlpate/new.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/temlpate/product/getprocates.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/temlpate/test/testfreemark.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/resources/js/commons/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/resources/js/jquery-3.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/resources/js/product/productcategorymanager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/resources/js/shop/shopoperation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/oto/resources/temlpate/new.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.DAO.ProductCategoryDAOTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.DAO.ProductDAOTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.DAO.ProductImgDAOTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.DAO.ShopCategoryDAOTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.Service.IMPL.ProductCategoryServiceIMPLTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.o2oSSM.Service.IMPL.ShopServiceIMPLTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.DAO.ProductCategoryDAOTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.DAO.ProductDAOTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.DAO.ProductImgDAOTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.DAO.ShopCategoryDAOTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.Service.IMPL.ProductCategoryServiceIMPLTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.o2oSSM.Service.IMPL.ShopServiceIMPLTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/DAO/ProductCategoryDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/DAO/ProductDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/DAO/ProductDAOTestqueryProductCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/DAO/ProductImgDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/DAO/ShopCategoryDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/Service/IMPL/ProductCategoryServiceIMPLTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/Service/IMPL/ProductServiceIMPLTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/o2oSSM/Service/IMPL/ShopServiceIMPLTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/oto$ProductDAOTestqueryProductCount_queryProductListD.ic" NAME="ProductDAOTestqueryProductCount.queryProductListD Coverage Results" MODIFIED="1529586715904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.o2oSSM.DAO.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Exceptions/ShopExceprion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataTransferObject/ProductCategoryExecutionDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/product/getproductcategorys.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/temlpate/product/getprocates.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ProductCategoryDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductCategoryDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataTransferObject/ProductExecutionDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ImageHolder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/ShopService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ShopServiceIMPL.java" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/Service/IMPL/ShopServiceIMPLTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/shopAdmin/ShopManagementController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Exceptions/ObjectException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/PathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ProductImgDAO.java" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductImgDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/ProductImg.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductImgMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/Service/IMPL/ProductServiceIMPLTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductDAOTestqueryProductCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ProductServiceIMPL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Enums/ResultEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ProductCategoryServiceIMPL.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/SqlTimeInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-configuration.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/SignUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/Wechat/WechatUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/WechatUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/DataTransferObject/UserAccessToken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/MyX509TrustManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatLoginController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Testjson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductCategoryManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductManageController.java" />
+        <option value="$PROJECT_DIR$/note.txt" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings-ali.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="resources" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oto Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="war" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="93" />
+    <option name="y" value="1" />
+    <option name="width" value="940" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oto" type="462c0819:PsiDirectoryNode" />
+              <item name="showimg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HOTFIX_customHotfixCommitMessage_text" value="Tagging hotfix %name%" />
+    <property name="RELEASE_customTagCommitMessage_text" value="Tagging version %name%" />
+    <property name="SearchEverywhereHistoryKey" value="shop&#9;PSI&#9;JAVA://com.o2oSSM.DataObject.Shop&#10;logback&#9;PSI&#9;JAVA://javafx.concurrent.ScheduledService#LOGARITHMIC_BACKOFF_STRATEGY" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.o2oSSM.DAO" />
+      <recent name="com.o2oSSM.Service.IMPL" />
+      <recent name="com.o2oSSM.Service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\showimg" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\resources\music" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\WEB-INF\temlpate" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\resources\temlpate" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\WEB-INF" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\WEB-INF\html\product" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp\WEB-INF\html\shop" />
+      <recent name="D:\#E\#Deve-file\code\javaweb\oto\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.oto-war">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ProductCategoryDAOTest.queryProductCategorieById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.o2oSSM.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.o2oSSM.DAO" />
+      <option name="MAIN_CLASS_NAME" value="com.o2oSSM.DAO.ProductCategoryDAOTest" />
+      <option name="METHOD_NAME" value="queryProductCategorieById" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductDAOTest.updateProductCategoryToNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.o2oSSM.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.o2oSSM.DAO" />
+      <option name="MAIN_CLASS_NAME" value="com.o2oSSM.DAO.ProductDAOTest" />
+      <option name="METHOD_NAME" value="updateProductCategoryToNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductDAOTestqueryProductCount.queryProductListB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.o2oSSM.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.o2oSSM.DAO" />
+      <option name="MAIN_CLASS_NAME" value="com.o2oSSM.DAO.ProductDAOTestqueryProductCount" />
+      <option name="METHOD_NAME" value="queryProductListB" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductDAOTestqueryProductCount.queryProductListC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.o2oSSM.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.o2oSSM.DAO" />
+      <option name="MAIN_CLASS_NAME" value="com.o2oSSM.DAO.ProductDAOTestqueryProductCount" />
+      <option name="METHOD_NAME" value="queryProductListC" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductDAOTestqueryProductCount.queryProductListD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.o2oSSM.DAO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.o2oSSM.DAO" />
+      <option name="MAIN_CLASS_NAME" value="com.o2oSSM.DAO.ProductDAOTestqueryProductCount" />
+      <option name="METHOD_NAME" value="queryProductListD" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="oto-war" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="oto:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_oto" />
+        <option name="HTTP_PORT" value="8085" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51553" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="oto:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.oto-war" />
+      <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListB" />
+      <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListC" />
+      <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListD" />
+      <item itemvalue="JUnit.ProductDAOTest.updateProductCategoryToNull" />
+      <item itemvalue="JUnit.ProductCategoryDAOTest.queryProductCategorieById" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductCategoryDAOTest.queryProductCategorieById" />
+        <item itemvalue="JUnit.ProductDAOTest.updateProductCategoryToNull" />
+        <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListD" />
+        <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListC" />
+        <item itemvalue="JUnit.ProductDAOTestqueryProductCount.queryProductListB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eac75e9-4fc5-4a12-a96e-40c35f784678" name="Default" comment="" />
+      <created>1527214925902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527214925902</updated>
+      <workItem from="1527214930810" duration="5642000" />
+      <workItem from="1527242367137" duration="6899000" />
+      <workItem from="1527256044529" duration="5049000" />
+      <workItem from="1527310474349" duration="1220000" />
+      <workItem from="1527330606971" duration="8339000" />
+      <workItem from="1527385055393" duration="25700000" />
+      <workItem from="1527482594726" duration="12379000" />
+      <workItem from="1527560961334" duration="8092000" />
+      <workItem from="1527647734125" duration="4410000" />
+      <workItem from="1527667987927" duration="15594000" />
+      <workItem from="1527754446541" duration="6577000" />
+      <workItem from="1527761336863" duration="4000" />
+      <workItem from="1527761387527" duration="5040000" />
+      <workItem from="1527815063426" duration="10017000" />
+      <workItem from="1527829938066" duration="10537000" />
+      <workItem from="1527844872558" duration="4579000" />
+      <workItem from="1528252334102" duration="4984000" />
+      <workItem from="1528520611053" duration="2138000" />
+      <workItem from="1528621369613" duration="1014000" />
+      <workItem from="1528622424713" duration="1607000" />
+      <workItem from="1528703011470" duration="2958000" />
+      <workItem from="1528709847157" duration="6467000" />
+      <workItem from="1528857360732" duration="4794000" />
+      <workItem from="1528879695758" duration="8923000" />
+      <workItem from="1528951429636" duration="4501000" />
+      <workItem from="1529303979811" duration="10301000" />
+      <workItem from="1529462243200" duration="1679000" />
+      <workItem from="1529477798757" duration="20236000" />
+      <workItem from="1529569935980" duration="5891000" />
+      <workItem from="1529585165397" duration="6269000" />
+      <workItem from="1529845920217" duration="2596000" />
+      <workItem from="1529914833604" duration="10866000" />
+      <workItem from="1529976930026" duration="2605000" />
+      <workItem from="1530107429052" duration="2959000" />
+      <workItem from="1531387532995" duration="410000" />
+      <workItem from="1531406800647" duration="26000" />
+      <workItem from="1531407485150" duration="3202000" />
+      <workItem from="1531471809191" duration="3888000" />
+      <workItem from="1531488523192" duration="1393000" />
+      <workItem from="1531548136190" duration="94000" />
+      <workItem from="1531550372474" duration="923000" />
+      <workItem from="1537694955700" duration="1153000" />
+      <workItem from="1537863043871" duration="210000" />
+      <workItem from="1537880051756" duration="4246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductDAOTest_queryProductListD - 2018.06.20 at 21h 33m 50s.xml">
+      <configuration name="ProductDAOTest.queryProductListD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_updateProduct - 2018.06.21 at 16h 42m 55s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.updateProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_queryProductListB - 2018.06.21 at 16h 43m 15s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.queryProductListB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_queryProductListB - 2018.06.21 at 16h 45m 02s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.queryProductListB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_queryProductListC - 2018.06.21 at 17h 18m 13s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.queryProductListC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_queryProductListD - 2018.06.21 at 17h 19m 04s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.queryProductListD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTestqueryProductCount_queryProductListD - 2018.06.21 at 21h 12m 02s.xml">
+      <configuration name="ProductDAOTestqueryProductCount.queryProductListD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_updateProductCategoryToNull - 2018.06.21 at 21h 19m 48s.xml">
+      <configuration name="ProductDAOTest.updateProductCategoryToNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDAOTest_queryProductCategorieById - 2018.09.23 at 17h 31m 00s.xml">
+      <configuration name="ProductCategoryDAOTest.queryProductCategorieById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDAOTest_queryProductCategorieById - 2018.09.23 at 17h 38m 05s.xml">
+      <configuration name="ProductCategoryDAOTest.queryProductCategorieById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-7" width="1488" height="878" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Application Servers" order="9" weight="0.3288889" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.27702704" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32972974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55439645" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3288889" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.44335663" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329429" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3288889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26433566" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329429" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49875313" visible="true" weight="0.30394924" />
+      <window_info id="Web" order="6" sideWeight="0.50124687" side_tool="true" weight="0.2533784" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32972974" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL" />
+    </ignored-roots>
+    <MESSAGE value="1o1o1o1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1o1o1o1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductDAOTest.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/shopAdmin/ShopManagementController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1662">
+          <caret line="120" column="10" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductDAOTestqueryProductCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/MyX509TrustManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/SignUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/weixinUtils/WechatUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/Wechat/WechatUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/wechat/WechatLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3709">
+          <caret line="179" lean-forward="true" selection-end-line="196" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="27" lean-forward="true" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DataObject/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="29" lean-forward="true" selection-start-line="13" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Enums/ResultEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" lean-forward="true" selection-start-line="11" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Exceptions/ObjectException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="41" lean-forward="true" selection-start-line="12" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ShopDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/AreaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DAO/ShopCategoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/o2o.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="157" column="25" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/music/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductManageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2030">
+          <caret line="95" column="44" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Testjson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2523">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/o2oSSM/DAO/ProductCategoryDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/AreaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/AreaServiceIMPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ProductCategoryServiceIMPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ProductServiceIMPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ShopCategoryServiceIMPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Service/IMPL/ShopServiceIMPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/VO/ResultVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/SqlTimeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2179">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ResultViewOUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/KaptchaCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/HttpServletRequestConversionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ImageHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/ObjectToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/Utils/PathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/DataTransferObject/UserAccessToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/Product/ProductCategoryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/o2oSSM/WebController/shopAdmin/ShopAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>oto:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (oto)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|oto</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

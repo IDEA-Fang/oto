@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>music</title>
+    <!-- 引入外部样式文件 -->
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+    <!-- bootcdn -->
+</head>
+
+<body>
+    <div class="container jello animated">
+        <div class="header">music</div>
+        <div class="list">
+            <div class="item">
+                <div class="item-name"></div>
+                <div class="item-size">2.9MB</div>
+            </div>
+            
+        </div>
+        <div class="progress-bg">
+            <div class="progress"></div>
+        </div>
+        <div class="footer">
+            <div class="time">
+                <div class="current-time"></div>
+                <div class="total-time">0:00</div>
+            </div>
+        </div>
+        <div class="control">
+            <div class="music-name">抱抱</div>
+            <div class="btn-control"></div>
+        </div>
+        <audio id="player" height="0" width="0"></audio>
+    <script src="js/data.js"></script>
+    <script src="js/music.js"></script>
+    <script src="js/ajax.js"></script>
+</body>
+
+</html>
