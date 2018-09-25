@@ -3,7 +3,7 @@
 
 项目设计
 ##### 功能设计
-![功能设计](https://github.com/IDEA-Fang/oto/blob/master/showimg/oto-project.png)
+![功能设计](https://github.com/IDEA-Fang/oto/blob/temp/showimg/oto-project.png)
 
 ##### 角色划分：
 
@@ -35,7 +35,7 @@
 8. 根据微信的接口定义的要求，获取微信用户的信息，并在微信端访问
 9. 阿里云部署，tomcat+mysql，在微信端访问
 
-![项目文件路径](https://github.com/IDEA-Fang/oto/blob/master/showimg/oto-mulu.png)
+![项目文件路径](https://github.com/IDEA-Fang/oto/blob/temp/showimg/oto-mulu.png)
 
 后端开发，按照每个功能的顺序开发，想用前后端分离，但是在前端js部分卡主
 
